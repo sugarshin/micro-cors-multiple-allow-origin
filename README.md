@@ -1,5 +1,7 @@
 # micro-cors-multiple-allow-origin
 
+[![CircleCI](https://circleci.com/gh/sugarshin/micro-cors-multiple-allow-origin.svg?style=svg&circle-token=6df98fe810b3c5fc49bf7c37b1f42da9cfdcda81)](https://circleci.com/gh/sugarshin/micro-cors-multiple-allow-origin)
+
 CORS for Zeit's [Micro](https://github.com/zeit/micro).
 
 Add multiple allowed origin.
