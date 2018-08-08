@@ -1,6 +1,6 @@
 {
   "name": "micro-cors-multiple-allow-origin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add multiple allowed origin for Zeit's Micro",
   "main": "index.js",
   "scripts": {
